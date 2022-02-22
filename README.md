@@ -44,5 +44,13 @@
 <img src="https://user-images.githubusercontent.com/22178479/155067191-4fb4f37f-f53c-4184-bd45-c1d742b0906b.png" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/22178479/155067194-33b88850-9921-4750-8725-9421f60ef7d1.png" width="300" height="500">
 
+- Status will have Processing, Rejected and Approved
+- at the status page the user need to wait for a few days to confirmation of eligible for Great Tenang.
+- while processing the user can share to other users to get rewards.
+- If the user rejected, the user not eligible for Great Tenang event and it will not proceed to the next step. 
+  the user can click on the get more benefits to get other rewards.
+- if the user approved, the user will proceed to the reward page.
+
+
 
 
