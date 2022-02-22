@@ -33,7 +33,7 @@
 - user must fill in all the details except for Introduced by because its optional
 - once complete click on the submit button and proceed to the login page
 
-## Step 4 : Login Page 
+### Step 4 : Login Page 
 
 <img src="https://user-images.githubusercontent.com/22178479/155061694-c845ae94-0e96-4c89-9cff-356ac9a03e02.png" width="300" height="500">
 
