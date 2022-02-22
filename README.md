@@ -9,6 +9,5 @@
 ## Step for the user registration
 
 Step 1
-![Screenshot_20220222_113913](https://user-images.githubusercontent.com/22178479/155059029-9a1c1991-6f1d-4ebd-abe2-3f262d4032c4.jpg)
-<img src="https://user-images.githubusercontent.com/22178479/155059029-9a1c1991-6f1d-4ebd-abe2-3f262d4032c4.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/22178479/155059029-9a1c1991-6f1d-4ebd-abe2-3f262d4032c4.jpg" width="300" height="500">
 The user can click on the Great Tebang Logo to sign up
