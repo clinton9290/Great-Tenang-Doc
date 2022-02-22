@@ -8,7 +8,7 @@
 
 
 
-## Step for the user registration
+## Step for the normal user registration
 
 ### Step 1: Sign up Page
 
@@ -67,6 +67,12 @@
   - Sharp Vouncher
   - Mydin Vouncher
 - there is 15 day for the user to share the code to other user to get more rewards voucher.
+
+
+## Other user rewards
+
+
+
 
 
 
