@@ -29,3 +29,15 @@
 ### Step 3 : Registration Page
 
 <img src="https://user-images.githubusercontent.com/22178479/155061267-26c21d20-3d09-45d1-b835-28661dc1ce53.png" width="300" height="500">
+
+- user must fill in all the details except for Introduced by because its optional
+- once complete click on the submit button and proceed to the login page
+
+## Step 4 : Login Page 
+
+<img src="https://user-images.githubusercontent.com/22178479/155061694-c845ae94-0e96-4c89-9cff-356ac9a03e02.png" width="300" height="500">
+
+- the user will receive TAC via SMS from their devices and login to their Great Tenang Account
+
+
+
