@@ -53,7 +53,7 @@
 
 ### Step 5 : Reward Page
 
-<img src="https://user-images.githubusercontent.com/22178479/155069949-60bc721d-5dbc-4c54-b83c-b3e5e5e9427e.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155069949-60bc721d-5dbc-4c54-b83c-b3e5e5e9427e.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/22178479/155070006-59a54df4-9563-4605-888b-dc87a4180674.png" width="300" height="500">
 
 
