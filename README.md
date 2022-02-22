@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/22178479/155061267-26c21d20-3d09-45d1-b835-28661dc1ce53.png" width="300" height="500">
 
-- user must fill in all the details except for Introduced by because its optional
+- user must fill in all the details 
 - once complete click on the submit button and proceed to the login page
 
 ### Step 4 : Login Page 
