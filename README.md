@@ -37,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/22178479/155061694-c845ae94-0e96-4c89-9cff-356ac9a03e02.png" width="300" height="500">
 
-- the user will receive TAC via SMS from their devices and login to their Great Tenang Account
+- the user will receive a pop up TAC via SMS from their devices and login to their Great Tenang Account
 
 
 
