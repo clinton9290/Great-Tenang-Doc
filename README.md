@@ -56,6 +56,11 @@
 <img src="https://user-images.githubusercontent.com/22178479/155069949-60bc721d-5dbc-4c54-b83c-b3e5e5e9427e.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/22178479/155070006-59a54df4-9563-4605-888b-dc87a4180674.png" width="300" height="500">
 
-
+- on the reward page the user can share code to other user to get more vouncher. Each time the user share the code to other users that eligible for the event,
+  the both of the user will get a vouncher RM5.
+- there are 3 type of vouncher which is:
+  - Petronas Vouncher
+  - Sharp Vouncher
+  - Mydin Vouncher
 
 
