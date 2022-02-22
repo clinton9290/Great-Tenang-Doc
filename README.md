@@ -1,2 +1,5 @@
 # Great-Tenang-Doc
-##**What is great Tenang**
+
+
+##Who eligible for the Great Tenang
+- go [https://www.myptv.my/] to check 
