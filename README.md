@@ -28,4 +28,4 @@
 
 ### Step 3 : Registration Page
 
-<img src="https://user-images.githubusercontent.com/22178479/155061000-fe14d6c5-50a8-4f54-8e6a-0503890d4851.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155061267-26c21d20-3d09-45d1-b835-28661dc1ce53.png" width="300" height="500">
