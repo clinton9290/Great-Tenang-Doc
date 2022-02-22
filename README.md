@@ -66,5 +66,8 @@
   - Petronas Vouncher
   - Sharp Vouncher
   - Mydin Vouncher
+- there is 15 day for the user to share the code to other user to get more rewards voucher.
+
+
 
 
