@@ -42,7 +42,7 @@
 ### Step 5 : Status Page 
 
 <img src="https://user-images.githubusercontent.com/22178479/155067191-4fb4f37f-f53c-4184-bd45-c1d742b0906b.png" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/22178479/155067194-33b88850-9921-4750-8725-9421f60ef7d1.png="500" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155067194-33b88850-9921-4750-8725-9421f60ef7d1.png" width="300" height="500">
 
 
 
