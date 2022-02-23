@@ -44,8 +44,9 @@
 
 ### Step 5 : Status Page 
 
-<img src="https://user-images.githubusercontent.com/22178479/155067191-4fb4f37f-f53c-4184-bd45-c1d742b0906b.png" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/22178479/155067194-33b88850-9921-4750-8725-9421f60ef7d1.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155252494-453faa90-fab3-4b67-88e2-ed3e1b09fce3.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155252518-5e2a8a17-a9f7-44d2-b4ba-12d63e13be72.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155252523-cc61525d-48ea-45b8-b32f-be5f645410c1.png" width="300" height="500">
 
 - There will have 3 type of status which are:
   - Processing
@@ -58,9 +59,10 @@
 - if the user approved, the user will proceed to the reward page.
 
 ### Step 5 : Reward Page
+![Screenshot 2022-02-23 102943]
 
 <img src="https://user-images.githubusercontent.com/22178479/155069949-60bc721d-5dbc-4c54-b83c-b3e5e5e9427e.png" width="300" height="200">
-<img src="https://user-images.githubusercontent.com/22178479/155070006-59a54df4-9563-4605-888b-dc87a4180674.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155252590-3ea7f0a4-c4b3-4981-a893-48faac41ff64.png" width="300" height="500">
 
 - on the reward page the user can share code to other user to get more vouncher. Each time the user share the code to other users that eligible for the event,
   the both of the user will get a vouncher RM5.
