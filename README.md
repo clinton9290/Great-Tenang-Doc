@@ -29,7 +29,7 @@
 ### Step 3 : Registration Page
 
 <img src="https://user-images.githubusercontent.com/22178479/155061267-26c21d20-3d09-45d1-b835-28661dc1ce53.png" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/22178479/155271563-b299e30b-9e2b-46bb-be91-d9cf7ae28bc4.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/22178479/155271563-b299e30b-9e2b-46bb-be91-d9cf7ae28bc4.png" width="500" height="200">
 
 - user must fill in all the details 
 - there is some retriction on which the user age must start frp, 16 to 70 years old. If the user age does not meet the condition,
