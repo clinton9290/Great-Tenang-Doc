@@ -83,6 +83,12 @@
    - TIST share code to normal user will receive RM2 cash
    - TCP share code to normal user will receive RM5 cash
  
+ ## Admin Portal
+ - allow admin to bulk upload status for:
+   - IC
+   - Phone Number
+   - Status
+  
 
 
 
