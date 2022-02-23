@@ -70,6 +70,15 @@
 - after 15 days, the users will receive the reward based on the montly cumulated amount. 
 
 ## Other user rewards
+- there is also other users which are:
+  - TEST
+  - TIST
+  - TCP
+ - every user reward is different when share the invite code to normal users:
+   - TEST share code to normal user will receive RM10 cash
+   - TIST share code to normal user will receive RM2 cash
+   - TCP share code to normal user will receive RM5 cash
+ 
 
 
 
