@@ -31,6 +31,8 @@
 <img src="https://user-images.githubusercontent.com/22178479/155061267-26c21d20-3d09-45d1-b835-28661dc1ce53.png" width="300" height="500">
 
 - user must fill in all the details 
+- there is some retriction on which the user age must start frp, 16 to 70 years old. If the user age does not meet the condition,
+  the user not eligible for registration for great Tenang and will not proceed to the next page.
 - once complete click on the submit button and proceed to the login page
 
 ### Step 4 : Login Page 
