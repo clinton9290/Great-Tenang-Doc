@@ -67,7 +67,7 @@
   - Sharp Vouncher
   - Mydin Vouncher
 - there is 15 day for the user to share the code to other user to get more rewards voucher.
-
+- after 15 days, the users will receive the reward based on the cummulative.
 
 ## Other user rewards
 
