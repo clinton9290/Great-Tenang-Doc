@@ -86,7 +86,7 @@
    - TCP share code to normal user will receive RM5 cash
  
  ## Admin Portal
- - allow admin to bulk upload status for:
+ - which allow admin to bulk upload status for:
    - IC
    - Phone Number
    - Status
